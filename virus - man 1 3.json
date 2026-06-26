@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 272,
+    "build": 271,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -20,7 +20,7 @@
     "sizeOnStartupMode": "adaptWidth",
     "templateSlug": "",
     "version": "1.0.0",
-    "name": "virus - Copy2",
+    "name": "virus - man 1 3",
     "description": "",
     "author": "",
     "windowWidth": 1800,
@@ -93,7 +93,7 @@
   "resources": {
     "resources": [
       {
-        "file": "assets/StartingPlayer2.png",
+        "file": "assets/StartingPlayer4.png",
         "kind": "image",
         "metadata": "",
         "name": "assets/StartingPlayer.png",
@@ -101,7 +101,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/StartingCoin2.png",
+        "file": "assets/StartingCoin4.png",
         "kind": "image",
         "metadata": "",
         "name": "assets/StartingCoin.png",
@@ -109,7 +109,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/StartingGround2.png",
+        "file": "assets/StartingGround4.png",
         "kind": "image",
         "metadata": "",
         "name": "assets/StartingGround.png",
@@ -117,7 +117,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/tiled_background color hills2.png",
+        "file": "assets/tiled_background color hills4.png",
         "kind": "image",
         "metadata": "",
         "name": "assets/tiled_background color hills.png",
@@ -125,7 +125,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/tiled_Sky Background2.png",
+        "file": "assets/tiled_Sky Background4.png",
         "kind": "image",
         "metadata": "",
         "name": "assets/tiled_Sky Background.png",
@@ -133,7 +133,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle (32x32).png",
+        "file": "assets/Idle (32x32)27.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"Pixel Adventure 1/Free/Main Characters/Virtual Guy/Idle (32x32).png\",\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Idle (32x32).png",
@@ -141,7 +141,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Run (32x32).png",
+        "file": "assets/Run (32x32)3.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Run (32x32).png",
@@ -149,7 +149,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32).png",
+        "file": "assets/Double Jump (32x32)55.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32).png",
@@ -157,7 +157,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)2.png",
+        "file": "assets/Double Jump (32x32)56.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)",
@@ -165,7 +165,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)3.png",
+        "file": "assets/Double Jump (32x32)57.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)2",
@@ -173,7 +173,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)4.png",
+        "file": "assets/Double Jump (32x32)58.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)3",
@@ -181,7 +181,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)5.png",
+        "file": "assets/Double Jump (32x32)59.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)4",
@@ -189,7 +189,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)6.png",
+        "file": "assets/Double Jump (32x32)60.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)5",
@@ -197,7 +197,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)7.png",
+        "file": "assets/Double Jump (32x32)61.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)6",
@@ -205,7 +205,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)8.png",
+        "file": "assets/Double Jump (32x32)62.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)7",
@@ -213,7 +213,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)9.png",
+        "file": "assets/Double Jump (32x32)63.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)8",
@@ -221,7 +221,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)10.png",
+        "file": "assets/Double Jump (32x32)64.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)9",
@@ -229,7 +229,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)11.png",
+        "file": "assets/Double Jump (32x32)65.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)10",
@@ -237,7 +237,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)12.png",
+        "file": "assets/Double Jump (32x32)66.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)11",
@@ -245,7 +245,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)13.png",
+        "file": "assets/Double Jump (32x32)67.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)12",
@@ -253,7 +253,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)14.png",
+        "file": "assets/Double Jump (32x32)68.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)13",
@@ -261,7 +261,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)15.png",
+        "file": "assets/Double Jump (32x32)69.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)14",
@@ -269,7 +269,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle24.png",
+        "file": "assets/iddle70.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle",
@@ -277,7 +277,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle25.png",
+        "file": "assets/iddle71.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle2",
@@ -285,7 +285,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle26.png",
+        "file": "assets/iddle72.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle3",
@@ -293,7 +293,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle27.png",
+        "file": "assets/iddle73.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle4",
@@ -301,7 +301,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle28.png",
+        "file": "assets/iddle74.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle5",
@@ -309,7 +309,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle29.png",
+        "file": "assets/iddle75.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle6",
@@ -317,7 +317,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle30.png",
+        "file": "assets/iddle76.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle7",
@@ -325,7 +325,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle31.png",
+        "file": "assets/iddle77.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle8",
@@ -333,7 +333,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle32.png",
+        "file": "assets/iddle78.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle9",
@@ -341,7 +341,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle33.png",
+        "file": "assets/iddle79.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle10",
@@ -349,7 +349,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle34.png",
+        "file": "assets/iddle80.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle11",
@@ -357,7 +357,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)16.png",
+        "file": "assets/Double Jump (32x32)70.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)15",
@@ -365,7 +365,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)17.png",
+        "file": "assets/Double Jump (32x32)71.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)16",
@@ -373,7 +373,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)18.png",
+        "file": "assets/Double Jump (32x32)72.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)17",
@@ -381,7 +381,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)19.png",
+        "file": "assets/Double Jump (32x32)73.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)18",
@@ -389,7 +389,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)20.png",
+        "file": "assets/Double Jump (32x32)74.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)19",
@@ -397,7 +397,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)21.png",
+        "file": "assets/Double Jump (32x32)75.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)20",
@@ -405,7 +405,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)22.png",
+        "file": "assets/Double Jump (32x32)76.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)21",
@@ -413,7 +413,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)23.png",
+        "file": "assets/Double Jump (32x32)77.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)22",
@@ -421,7 +421,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)24.png",
+        "file": "assets/Double Jump (32x32)78.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)23",
@@ -429,7 +429,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)25.png",
+        "file": "assets/Double Jump (32x32)79.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)24",
@@ -437,7 +437,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)26.png",
+        "file": "assets/Double Jump (32x32)80.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)25",
@@ -445,7 +445,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Double Jump (32x32)27.png",
+        "file": "assets/Double Jump (32x32)81.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Double Jump (32x32)26",
@@ -453,7 +453,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Jump (32x32).png",
+        "file": "assets/Jump (32x32)3.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Jump (32x32).png",
@@ -461,7 +461,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Hit (32x32).png",
+        "file": "assets/Hit (32x32)17.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Hit (32x32).png",
@@ -469,7 +469,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Hit (32x32)2.png",
+        "file": "assets/Hit (32x32)18.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Hit (32x32)",
@@ -477,7 +477,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Hit (32x32)3.png",
+        "file": "assets/Hit (32x32)19.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Hit (32x32)2",
@@ -485,7 +485,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Hit (32x32)4.png",
+        "file": "assets/Hit (32x32)20.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Hit (32x32)3",
@@ -493,7 +493,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Hit (32x32)5.png",
+        "file": "assets/Hit (32x32)21.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Hit (32x32)4",
@@ -501,7 +501,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Hit (32x32)6.png",
+        "file": "assets/Hit (32x32)22.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Hit (32x32)5",
@@ -509,7 +509,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Hit (32x32)7.png",
+        "file": "assets/Hit (32x32)23.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Hit (32x32)6",
@@ -517,7 +517,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Hit (32x32)8.png",
+        "file": "assets/Hit (32x32)24.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Virtual Guy/Hit (32x32)7",
@@ -525,7 +525,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/run12.png",
+        "file": "assets/run34.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "run",
@@ -533,7 +533,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/run13.png",
+        "file": "assets/run35.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "run2",
@@ -541,7 +541,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/run14.png",
+        "file": "assets/run36.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "run3",
@@ -549,7 +549,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/run15.png",
+        "file": "assets/run37.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "run4",
@@ -557,7 +557,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/run16.png",
+        "file": "assets/run38.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "run5",
@@ -565,7 +565,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/run17.png",
+        "file": "assets/run39.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "run6",
@@ -573,7 +573,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/run18.png",
+        "file": "assets/run40.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "run7",
@@ -581,7 +581,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/run19.png",
+        "file": "assets/run41.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "run8",
@@ -589,7 +589,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/run20.png",
+        "file": "assets/run42.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "run9",
@@ -597,7 +597,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/run21.png",
+        "file": "assets/run43.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "run10",
@@ -605,7 +605,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/run22.png",
+        "file": "assets/run44.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "run11",
@@ -613,7 +613,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle35.png",
+        "file": "assets/iddle81.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle12",
@@ -621,7 +621,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle36.png",
+        "file": "assets/iddle82.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle13",
@@ -629,7 +629,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle37.png",
+        "file": "assets/iddle83.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle14",
@@ -637,7 +637,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle38.png",
+        "file": "assets/iddle84.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle15",
@@ -645,7 +645,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle39.png",
+        "file": "assets/iddle85.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle16",
@@ -653,7 +653,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle40.png",
+        "file": "assets/iddle86.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle17",
@@ -661,7 +661,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle41.png",
+        "file": "assets/iddle87.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle18",
@@ -669,7 +669,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle42.png",
+        "file": "assets/iddle88.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle19",
@@ -677,7 +677,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle43.png",
+        "file": "assets/iddle89.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle20",
@@ -685,7 +685,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle44.png",
+        "file": "assets/iddle90.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle21",
@@ -693,7 +693,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle45.png",
+        "file": "assets/iddle91.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle22",
@@ -701,7 +701,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/iddle46.png",
+        "file": "assets/iddle92.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "iddle23",
@@ -709,7 +709,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle12.png",
+        "file": "assets/Idle34.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Adventure 1/Free/Traps/Blocks/Idle.png",
@@ -717,7 +717,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Achievements.png",
+        "file": "assets/Achievements3.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Adventure 1/Free/Menu/Buttons/Achievements.png",
@@ -725,7 +725,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Levels.png",
+        "file": "assets/Levels3.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Adventure 1/Free/Menu/Buttons/Levels.png",
@@ -733,7 +733,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/End (Idle).png",
+        "file": "assets/End (Idle)3.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Adventure 1/Free/Items/Checkpoints/End/End (Idle).png",
@@ -741,7 +741,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle (32x32)2.png",
+        "file": "assets/Idle (32x32)28.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Adventure 1/Free/Main Characters/Pink Man/Idle (32x32).png",
@@ -749,7 +749,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/idle12.png",
+        "file": "assets/idle34.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "idle",
@@ -757,7 +757,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/idle13.png",
+        "file": "assets/idle35.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "idle2",
@@ -765,7 +765,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/idle14.png",
+        "file": "assets/idle36.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "idle3",
@@ -773,7 +773,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/idle15.png",
+        "file": "assets/idle37.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "idle4",
@@ -781,7 +781,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/idle16.png",
+        "file": "assets/idle38.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "idle5",
@@ -789,7 +789,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/idle17.png",
+        "file": "assets/idle39.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "idle6",
@@ -797,7 +797,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/idle18.png",
+        "file": "assets/idle40.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "idle7",
@@ -805,7 +805,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/idle19.png",
+        "file": "assets/idle41.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "idle8",
@@ -813,7 +813,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/idle20.png",
+        "file": "assets/idle42.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "idle9",
@@ -821,7 +821,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/idle21.png",
+        "file": "assets/idle43.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "idle10",
@@ -829,7 +829,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/idle22.png",
+        "file": "assets/idle44.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "idle11",
@@ -837,7 +837,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle13.png",
+        "file": "assets/Idle35.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Traps/Blocks/Idle",
@@ -845,7 +845,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle (32x32)3.png",
+        "file": "assets/Idle (32x32)29.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Pink Man/Idle (32x32)",
@@ -853,7 +853,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle (32x32)4.png",
+        "file": "assets/Idle (32x32)30.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Pink Man/Idle (32x32)2",
@@ -861,7 +861,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle (32x32)5.png",
+        "file": "assets/Idle (32x32)31.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Pink Man/Idle (32x32)3",
@@ -869,7 +869,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle (32x32)6.png",
+        "file": "assets/Idle (32x32)32.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Pink Man/Idle (32x32)4",
@@ -877,7 +877,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle (32x32)7.png",
+        "file": "assets/Idle (32x32)33.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Pink Man/Idle (32x32)5",
@@ -885,7 +885,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle (32x32)8.png",
+        "file": "assets/Idle (32x32)34.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Pink Man/Idle (32x32)6",
@@ -893,7 +893,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle (32x32)9.png",
+        "file": "assets/Idle (32x32)35.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Pink Man/Idle (32x32)7",
@@ -901,7 +901,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle (32x32)10.png",
+        "file": "assets/Idle (32x32)36.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Pink Man/Idle (32x32)8",
@@ -909,7 +909,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle (32x32)11.png",
+        "file": "assets/Idle (32x32)37.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Pink Man/Idle (32x32)9",
@@ -917,7 +917,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle (32x32)12.png",
+        "file": "assets/Idle (32x32)38.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Pink Man/Idle (32x32)10",
@@ -925,7 +925,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle (32x32)13.png",
+        "file": "assets/Idle (32x32)39.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Pixel Adventure 1/Free/Main Characters/Pink Man/Idle (32x32)11",
@@ -933,7 +933,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Idle14.png",
+        "file": "assets/Idle36.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Adventure 1/Free/Items/Boxes/Box2/Idle.png",
@@ -941,7 +941,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/grass5.png",
+        "file": "assets/grass13.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "grass",
@@ -949,7 +949,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/grass6.png",
+        "file": "assets/grass14.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "grass2",
@@ -957,7 +957,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/grass7.png",
+        "file": "assets/grass15.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "grass3",
@@ -965,7 +965,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/grass8.png",
+        "file": "assets/grass16.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "grass4",
@@ -973,7 +973,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/NewSprite3.png",
+        "file": "assets/NewSprite9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite2",
@@ -981,7 +981,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Checkpoint (Flag Idle)(64x64).png",
+        "file": "assets/Checkpoint (Flag Idle)(64x64)5.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Adventure 1/Free/Items/Checkpoints/Checkpoint/Checkpoint (Flag Idle)(64x64).png",
@@ -989,7 +989,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/20 Enemies.png",
+        "file": "assets/20 Enemies3.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Adventure 1/Free/20 Enemies.png",
@@ -997,7 +997,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Checkpoint (No Flag).png",
+        "file": "assets/Checkpoint (No Flag)3.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Adventure 1/Free/Items/Checkpoints/Checkpoint/Checkpoint (No Flag).png",
@@ -1005,7 +1005,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Checkpoint (Flag Idle)(64x64)2.png",
+        "file": "assets/Checkpoint (Flag Idle)(64x64)6.png",
         "kind": "image",
         "metadata": "",
         "name": "Checkpoint (Flag Idle)(64x64).png",
@@ -1017,7 +1017,7 @@
         }
       },
       {
-        "file": "assets/back.png",
+        "file": "assets/back3.png",
         "kind": "image",
         "metadata": "",
         "name": "back.png",
@@ -1029,7 +1029,7 @@
         }
       },
       {
-        "file": "assets/middle.png",
+        "file": "assets/middle3.png",
         "kind": "image",
         "metadata": "",
         "name": "middle.png",
@@ -1041,7 +1041,7 @@
         }
       },
       {
-        "file": "assets/NewSprite4.png",
+        "file": "assets/NewSprite10.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite3",
@@ -1049,7 +1049,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/instructions.png",
+        "file": "assets/instructions3.png",
         "kind": "image",
         "metadata": "",
         "name": "instructions.png",
@@ -1061,7 +1061,7 @@
         }
       },
       {
-        "file": "assets/Red Button With Metal Frame_Hovered.png",
+        "file": "assets/Red Button With Metal Frame_Hovered3.png",
         "kind": "image",
         "metadata": "",
         "name": "Red Button With Metal Frame_Hovered.png",
@@ -1073,7 +1073,7 @@
         }
       },
       {
-        "file": "assets/Red Button With Metal Frame_Idle.png",
+        "file": "assets/Red Button With Metal Frame_Idle3.png",
         "kind": "image",
         "metadata": "",
         "name": "Red Button With Metal Frame_Idle.png",
@@ -1085,7 +1085,7 @@
         }
       },
       {
-        "file": "assets/Red Button With Metal Frame_Pressed.png",
+        "file": "assets/Red Button With Metal Frame_Pressed3.png",
         "kind": "image",
         "metadata": "",
         "name": "Red Button With Metal Frame_Pressed.png",
@@ -1097,7 +1097,7 @@
         }
       },
       {
-        "file": "assets/Charm-Regular.ttf",
+        "file": "assets/Charm-Regular3.ttf",
         "kind": "font",
         "metadata": "",
         "name": "Charm-Regular.ttf",
@@ -1108,7 +1108,7 @@
         }
       },
       {
-        "file": "assets/tileset.png",
+        "file": "assets/tileset3.png",
         "kind": "image",
         "metadata": "",
         "name": "tileset.png",
@@ -1120,7 +1120,7 @@
         }
       },
       {
-        "file": "assets/NewSprite5.png",
+        "file": "assets/NewSprite11.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite4",
@@ -4910,37 +4910,31 @@
       "variables": [
         {
           "name": "blood",
-          "persistentUuid": "9daf42d8-9470-469b-88b8-9bc16388295c",
           "type": "number",
           "value": 5
         },
         {
           "name": "clues",
-          "persistentUuid": "137e3cbf-8449-42f8-9ad4-c8f7e524fa42",
           "type": "number",
           "value": 0
         },
         {
           "name": "HasClue1",
-          "persistentUuid": "c32b147f-2938-406c-ae35-572f4411c2e5",
           "type": "boolean",
           "value": false
         },
         {
           "name": "HasClue2",
-          "persistentUuid": "f199a357-724b-4846-9357-fa47fc3178ce",
           "type": "boolean",
           "value": false
         },
         {
           "name": "HasClue3",
-          "persistentUuid": "1ee81014-59bf-446c-8d95-fe91dc8d516c",
           "type": "boolean",
           "value": false
         },
         {
           "name": "CHasClue4",
-          "persistentUuid": "29e7dc04-5ba3-4f62-b246-9b7d29f62a1f",
           "type": "boolean",
           "value": false
         }
